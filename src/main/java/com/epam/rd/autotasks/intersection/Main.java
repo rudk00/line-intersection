@@ -14,7 +14,5 @@ public class Main {
         Line line2 = new Line(k2,b2);
 
         System.out.println("result is " + line1.intersection(line2));
-
     }
-
 }
